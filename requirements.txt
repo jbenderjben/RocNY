@@ -1,4 +1,4 @@
 pandas
-curl_cffi
+httpx
 icalevents
 streamlit
