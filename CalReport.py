@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import re
-from curl_cffi import requests
+import httpx
 from icalevents.icalevents import parse_events
 from datetime import datetime, timedelta, timezone
 
